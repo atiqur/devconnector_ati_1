@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://atiqur:KrishnaNagar05@devconnectorati1-abzlr.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://atiqur:KrishnaNagar05@devconnectorati1-abzlr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
